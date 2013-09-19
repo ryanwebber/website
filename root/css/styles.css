@@ -32,16 +32,16 @@ img.profile{
 table.bodyTable{
     background: #f2f2f2;
     border: 2px solid #d1d1d1;
-    width:70%;
+    width:60%;
     padding:2%;
 }
 
 span.header{
-    font-size:1.5em;
+    font-size:1.25em;
 }
 
 span.largeText{
-    font-size:2.5em;
+    font-size:2.25em;
 }
 
 span.regularText{

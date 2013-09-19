@@ -30,8 +30,6 @@ img.profile{
 }
 
 table.bodyTable{
-    background: #f2f2f2;
-    border: 2px solid #d1d1d1;
     width:60%;
     padding:2%;
 }
@@ -41,11 +39,12 @@ span.header{
 }
 
 span.largeText{
-    font-size:2.25em;
+    font-size:2em;
 }
 
 span.regularText{
-    font-size:1em;
+    font-size:1.25em;
+    font-weight: lighter;
 }
 
 span.smallText{
@@ -62,4 +61,9 @@ td.underline{
 img.icon{
     width:1.5em;
     height:1.5em;
+}
+
+a{
+    color:black;
+    text-decoration: none;
 }

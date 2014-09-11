@@ -17,8 +17,12 @@ img.icon{
 }
 
 a{
-    color: #333;
+    color: #000;
     text-decoration: none;
+}
+
+a:hover{
+    color: #000;
 }
 
 div.verticalOuter{

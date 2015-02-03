@@ -3,9 +3,9 @@ root {
 }
 
 body, html{
-    font-family: 'Lato', sans-serif;
+    font-family: 'Lucida Sans Unicode', sans-serif;
     font-weight: 100;
-    color:#fff;
+    color:#ddd;
     background:#4c8f5f;
     width: 100%;
     height: 100%;

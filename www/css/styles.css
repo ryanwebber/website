@@ -11,18 +11,50 @@ body, html{
     height: 100%;
 }
 
-img.icon{
-    width:14px;
-    height:14px;
+div.github{
+    display: block;
+    text-decoration: none;
+    text-align: center;
+}
+
+div.github > a{
+    text-decoration: none;
+    display: inline-block;
+    padding: 10px;
+    border: 1px solid #fff;
+    -webkit-transition: all 1s ease;
+     -moz-transition: all 1s ease;
+       -o-transition: all 1s ease;
+          transition: all 1s ease;
+}
+
+div.github > a:hover{
+    background-color: #66A979;
+    cursor: pointer;
+}
+
+div.github .git-icon{
+    height: 50px;
+    width: auto;
+    -webkit-filter: brightness(0) invert(1);
+    -moz-filter: brightness(0) invert(1);
+    filter: brightness(0) invert(1);
+}
+
+div.github .avatar{
+    height: 50px;
+    width: auto;
+    border-radius: 50px;
 }
 
 a{
-    color: #000;
-    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+    text-decoration: underline;
 }
 
 a:hover{
-    color: #000;
+    color: #ddd;
 }
 
 div.verticalOuter{

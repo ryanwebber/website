@@ -1,0 +1,3 @@
+[submodule "submodules/kd-animations"]
+	path = submodules/kd-animations
+	url = https://github.com/ryanwebber/kd-animations.git

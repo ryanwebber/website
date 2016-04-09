@@ -26,13 +26,13 @@ body, html{
 }
 
 a{
-    color: #5e6e98;
+    color: #7E94CC;
     position: relative;
 }
 
 a:hover{
     text-decoration: none;
-    color: #5e6e98;
+    color: #7E94CC;
 }
 
 a:before {
@@ -69,4 +69,5 @@ div.verticalInner{
 
 p{
     font-size: 16px;
+    font-weight: 100;
 }
